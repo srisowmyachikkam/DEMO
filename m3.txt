@@ -1,0 +1,1 @@
+We have created a third file namely m3.txt to understand the merge and rebase
